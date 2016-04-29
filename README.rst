@@ -3,6 +3,10 @@ PHP Server Monitor
 
 Version 3.1.1
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/erickrf/nlpnet
+   :target: https://gitter.im/phpservermon/phpservermon
+
 PHP Server Monitor is a script that checks whether your websites and servers are up and running.
 It comes with a web based user interface where you can manage your services and websites,
 and you can manage users for each server with a mobile number and email address.
